@@ -1159,12 +1159,12 @@ section {border-bottom:1px solid #ececec}
 ====================================== */
 
 .owl-bg-img {display: block; overflow: hidden; position: relative; width: 100%;}
-.owl-buttons .owl-prev {position: absolute; top: 50%; margin-top:-18px; left: 70px; font-size: 35px; color: #fff}
-.owl-buttons .owl-next {position: absolute; top: 50%; right:70px; font-size: 35px; color: #fff; margin-top:-18px;}
+.owl-buttons .owl-prev {position: absolute; top: 50%; margin-top:-18px; left: 70px; font-size: 35px; color: #9f9292}
+.owl-buttons .owl-next {position: absolute; top: 50%; right:70px; font-size: 35px; color: #9f9292; margin-top:-18px;}
 .owl-pagination {position: absolute; bottom: 35px; text-align: center; width: 100%;}
 .owl-pagination .owl-page {display: inline-block}
-.owl-pagination .owl-page span {width: 10px; height: 10px; border-radius: 100%; border: 2px solid rgba(255,255,255,.5); display: inline-block; margin: 0 5px;}
-.owl-pagination .active span {background-color: #fff; border: 2px solid rgba(255,255,255,.8);}
+.owl-pagination .owl-page span {width: 10px; height: 10px; border-radius: 100%; border: 2px solid rgba(189, 186, 186, 0.5); display: inline-block; margin: 0 5px;}
+.owl-pagination .active span {background-color: #9f9292; border: 2px solid rgba(212,212,212,.8);}
 .owl-pagination-bottom .owl-pagination{position: absolute; bottom:-50px; text-align: center; width: 100%;}
 .owl-pagination-bottom .owl-pagination .active span {background: rgba(255,255,255,.8); }
 .owl-without-next-pre-arrow .owl-buttons { display: none;}
